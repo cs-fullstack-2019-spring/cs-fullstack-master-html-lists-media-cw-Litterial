@@ -1,0 +1,59 @@
+.blueborder  /* For question 1 border */
+{
+    width:20%;
+    margin: auto;
+    position:relative;
+
+    border: solid blue;
+    text-align: center;
+    padding:0;
+}
+
+.redAndgrey
+{
+    width:35%;
+    padding:10px;
+    color:red;
+    background:grey;
+    text-align: center;
+    margin:auto;
+}
+html, body
+{
+    background-color: #ebff6b;
+    height: 100%;
+
+}
+
+.pinkdog
+{
+bottom:100px;
+width:450px;
+height:300px;
+border: solid silver;
+padding:1px;
+float:right
+}
+
+.adjustCake
+{
+    position:relative;
+    top:0;
+    border-style: solid;
+    width:100px;
+    height: 100px;
+    clear:both;
+}
+.adjustIframe
+{
+    position:relative;
+    top:10px;
+    width:80%;
+    height:30%;
+    left:100px;
+
+}
+
+/**{*/
+    /*border-style: dashed;*/
+/*}*/
