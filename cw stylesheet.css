@@ -57,3 +57,16 @@ float:right
 /**{*/
     /*border-style: dashed;*/
 /*}*/
+
+
+.nobullet{
+    list-style-type: none;
+}
+
+#emli {
+    font-style: italic;
+}
+
+#emstr {
+    font-weight: bold;
+}
